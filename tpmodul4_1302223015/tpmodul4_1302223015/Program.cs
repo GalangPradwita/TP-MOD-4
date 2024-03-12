@@ -9,11 +9,40 @@
             return kodepos[(int) kelurahan];
         }
     }
+    public class DoorMachine
+    {
+        public enum State { Terkunci, Terbuka }
+        State state = State.Terkunci;
+
+        public void ShowDisplay()
+        {
+            if (state == State.Terkunci)
+            {
+                Console.WriteLine("Pintu Terkunci");
+            }
+            else
+            {
+                Console.WriteLine("Pintu Tidak Terkunci");
+            }
+        }
+
+        public void ChangeState(State newState)
+        {
+            state = newState;
+        }
+        
+        
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine(KodePos.getKodePos(KodePos.Kelurahan.Batununggal));
+            DoorMachine doorMachine = new DoorMachine();
+            doorMachine.ShowDisplay();
+            doorMachine.ChangeState(DoorMachine.State.Terbuka);
+            doorMachine.ShowDisplay();
+
         }
     }
 }
