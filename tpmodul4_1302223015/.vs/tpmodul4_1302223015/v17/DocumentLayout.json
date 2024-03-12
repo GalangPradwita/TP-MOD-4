@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 4\\tpmodul4_1302223015\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD99CE3-DDE2-4AD2-8BEE-CC3FAA634C0D}|tpmodul4_1302223015\\tpmodul4_1302223015.csproj|d:\\telkom university\\semester 4\\kontruksi perangkat lunak\\tugas\\week 4\\tpmodul4_1302223015\\tpmodul4_1302223015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD99CE3-DDE2-4AD2-8BEE-CC3FAA634C0D}|tpmodul4_1302223015\\tpmodul4_1302223015.csproj|solutionrelative:tpmodul4_1302223015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 4\\tpmodul4_1302223015\\tpmodul4_1302223015\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul4_1302223015\\Program.cs",
+              "ToolTip": "D:\\Telkom University\\SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\TUGAS\\WEEK 4\\tpmodul4_1302223015\\tpmodul4_1302223015\\Program.cs",
+              "RelativeToolTip": "tpmodul4_1302223015\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:20:56.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
